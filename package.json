@@ -1,6 +1,6 @@
 {
   "name": "bunny-transfer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
   "type": "module",
   "description": "Transfer files to and from your storage zones with bunny.net in a single cli command 🐰",
