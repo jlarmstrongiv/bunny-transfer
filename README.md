@@ -13,8 +13,8 @@ npx --yes bunny-transfer@latest purge <pull-zone...>
 
 The difference between the [`sync`](https://bunny-launcher.net/bunny-transfer/commands/sync) and [`move`](https://bunny-launcher.net/bunny-transfer/commands/move) commands is that:
 
-- The [`sync`](https://bunny-launcher.net/bunny-transfer/commands/sync) command will sync files to the destination, and delete files in the destination that do not exist in the source
-- The [`move`](https://bunny-launcher.net/bunny-transfer/commands/move) command will move files to the destination, and leave existing files in the destination that do not exist in the source
+- The [`sync`](https://bunny-launcher.net/bunny-transfer/commands/sync) command will sync files to the destination, and delete files in the destination that do not exist in the source.
+- The [`move`](https://bunny-launcher.net/bunny-transfer/commands/move) command will move files to the destination, and leave existing files in the destination that do not exist in the source.
 
 ## Documentation
 
